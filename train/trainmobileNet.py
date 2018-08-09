@@ -1,6 +1,6 @@
 # setup path
 import sys
-sys.path.append('./models/research/slim')
+sys.path.append('../models/research/slim')
 
 import tensorflow as tf
 from nets.mobilenet import mobilenet_v2
